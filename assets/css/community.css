@@ -57,3 +57,9 @@ header {
 footer {
   font-family: "DM Sans", sans-serif;
 }
+
+.line {
+  width: 75px;
+  position: absolute;
+  top: 30vh;
+}
