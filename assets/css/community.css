@@ -40,26 +40,10 @@ header {
   }
 }
 
-@media (min-width: 576px) {
-  .bg-md {
-    background-color: #fff;
-    box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.16),
-      0 10px 20px -2px rgba(0, 0, 0, 0.1) !important;
-  }
-  .line {
-    top: 20vh;
-    width: auto;
-  }
-}
-
 @media (min-width: 768px) {
   .bg-md {
     box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0), 0 0px 0px 0px rgba(0, 0, 0, 0) !important;
     background-color: transparent;
-  }
-  .line {
-    top: 28vh;
-    width: auto;
   }
 }
 
@@ -67,10 +51,6 @@ header {
   .bg-md {
     box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0), 0 0px 0px 0px rgba(0, 0, 0, 0) !important;
     background-color: transparent;
-  }
-  .line {
-    top: 32vh;
-    width: auto;
   }
 }
 
